@@ -1,0 +1,29 @@
+F:\C# part2\Левчику\Cezar\bin\Debug\Cezar.exe.config
+F:\C# part2\Левчику\Cezar\bin\Debug\Cezar.exe
+F:\C# part2\Левчику\Cezar\bin\Debug\Cezar.pdb
+F:\C# part2\Левчику\Cezar\obj\Debug\Cezar.csprojAssemblyReference.cache
+F:\C# part2\Левчику\Cezar\obj\Debug\Cezar.Form1.resources
+F:\C# part2\Левчику\Cezar\obj\Debug\Cezar.Properties.Resources.resources
+F:\C# part2\Левчику\Cezar\obj\Debug\Cezar.csproj.GenerateResource.cache
+F:\C# part2\Левчику\Cezar\obj\Debug\Cezar.csproj.CoreCompileInputs.cache
+F:\C# part2\Левчику\Cezar\obj\Debug\Cezar.exe
+F:\C# part2\Левчику\Cezar\obj\Debug\Cezar.pdb
+C:\Users\Лев\Desktop\Cezar\bin\Debug\Cezar.exe.config
+C:\Users\Лев\Desktop\Cezar\bin\Debug\Cezar.exe
+C:\Users\Лев\Desktop\Cezar\bin\Debug\Cezar.pdb
+C:\Users\Лев\Desktop\Cezar\obj\Debug\Cezar.csprojAssemblyReference.cache
+C:\Users\Лев\Desktop\Cezar\obj\Debug\Cezar.Form1.resources
+C:\Users\Лев\Desktop\Cezar\obj\Debug\Cezar.Properties.Resources.resources
+C:\Users\Лев\Desktop\Cezar\obj\Debug\Cezar.csproj.GenerateResource.cache
+C:\Users\Лев\Desktop\Cezar\obj\Debug\Cezar.csproj.CoreCompileInputs.cache
+C:\Users\Лев\Desktop\Cezar\obj\Debug\Cezar.exe
+C:\Users\Лев\Desktop\Cezar\obj\Debug\Cezar.pdb
+C:\Users\psm30\Desktop\Другое\Cezar\bin\Debug\Cezar.exe.config
+C:\Users\psm30\Desktop\Другое\Cezar\bin\Debug\Cezar.exe
+C:\Users\psm30\Desktop\Другое\Cezar\bin\Debug\Cezar.pdb
+C:\Users\psm30\Desktop\Другое\Cezar\obj\Debug\Cezar.csprojAssemblyReference.cache
+C:\Users\psm30\Desktop\Другое\Cezar\obj\Debug\Cezar.Form1.resources
+C:\Users\psm30\Desktop\Другое\Cezar\obj\Debug\Cezar.Properties.Resources.resources
+C:\Users\psm30\Desktop\Другое\Cezar\obj\Debug\Cezar.csproj.GenerateResource.cache
+C:\Users\psm30\Desktop\Другое\Cezar\obj\Debug\Cezar.exe
+C:\Users\psm30\Desktop\Другое\Cezar\obj\Debug\Cezar.pdb
